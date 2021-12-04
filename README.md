@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pydzy
-- 👀 I’m interested in ... Cybersecurity and Red Teaming
+- 👀 I’m interested in ... Cybersecurity and Penetration Testing
 - 🌱 I’m currently learning ... Above
 - 💞️ I’m looking to collaborate on ... Not sure
 - 📫 How to reach me ... here
